@@ -3,7 +3,7 @@
 
 **Description :-**
 
-The python script in the file "innovaccer.py" performs two tasks 
+*The python script in the file "innovaccer.py" performs two tasks* 
 	
 - Gets the largest 10 files in the home directory of the current user
 - Arranges users desktop by moving all files from desktop to documents folder into respective subfolders based on extensions
@@ -12,7 +12,7 @@ The python script in the file "innovaccer.py" performs two tasks
 
 **Instructions For Running The Script :-**
 
-You can run the script as   
+*You can run the script as*   
 	
 python innovaccer.py path_to_directory
 
