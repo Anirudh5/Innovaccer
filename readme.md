@@ -1,7 +1,7 @@
 ---------------------------------------Innovaccer Infrastructure Engineering Assignment-----------------------------------
 
 
-**Description :-
+**Description :-**
 
 The python script in the file "innovaccer.py" performs two tasks 
 	
@@ -10,7 +10,7 @@ The python script in the file "innovaccer.py" performs two tasks
 
             
 
-**Instructions For Running The Script :-
+**Instructions For Running The Script :-**
 
 You can run the script as   
 	
@@ -22,14 +22,14 @@ Desktop directory is set as "/home/username/Desktop"
 Documents directory is set as "/home/username/Documents"
 
            
- **Bonus work :-
+ **Bonus work :-**
 
  - Added support for complex file names which include spaces in the filename.
  - While cleaning the desktop it also considers all the folders and subfolders while collecting files based on extensions instead of just taking the first level files.
 
 
            
- **Special Instructions :-
+ **Special Instructions :-**
 
  - The script is developed for Unix platform.
 
