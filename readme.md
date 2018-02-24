@@ -12,7 +12,7 @@
 
 **Instructions For Running The Script :-**
 
-*You can run the script as*   
+*You can run the script as :*   
 	
 python innovaccer.py path_to_directory
 
